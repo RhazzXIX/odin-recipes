@@ -1,0 +1,9 @@
+body {
+    font-family: 'times new roman', Helvetica, sans-serif;
+}
+button {
+    background-color: rgb(243, 247, 27);
+    font-style: italic,;
+    font-weight: bold;
+    color: black;
+}
